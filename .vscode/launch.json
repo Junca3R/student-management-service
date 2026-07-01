@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MsStudentsApplication<ms-students>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ms_students.MsStudentsApplication",
+            "projectName": "ms-students",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
