@@ -4,7 +4,7 @@
 
 ### API REST profesional para la gestión de estudiantes y calificaciones
 
-*Construida con Java 26, Spring Boot 3 y PostgreSQL, siguiendo una arquitectura limpia por capas*
+*Construida con Java, Spring Boot 3 y PostgreSQL, siguiendo una arquitectura limpia por capas*
 
 <br/>
 
@@ -55,7 +55,7 @@ Este proyecto está pensado como una base sólida y escalable para sistemas de g
 
 | Tecnología | Versión / Detalle | Propósito |
 |---|---|---|
-| ☕ **Java** | 17 (LTS) | Lenguaje principal del proyecto |
+| ☕ **Java** | - | Lenguaje principal del proyecto |
 | 🍃 **Spring Boot** | 3.x | Framework base para la construcción de la API |
 | 🌐 **Spring Web** | - | Creación de endpoints REST |
 | 🗄️ **Spring Data JPA** | - | Abstracción para el acceso a datos |
