@@ -4,7 +4,7 @@
 
 ### API REST profesional para la gestión de estudiantes y calificaciones
 
-*Construida con Java 17, Spring Boot 3 y PostgreSQL, siguiendo una arquitectura limpia por capas*
+*Construida con Java 26, Spring Boot 3 y PostgreSQL, siguiendo una arquitectura limpia por capas*
 
 <br/>
 
