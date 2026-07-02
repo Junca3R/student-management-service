@@ -37,7 +37,7 @@
 
 ## 📖 Descripción del proyecto
 
-**Student Management Service** es una API REST desarrollada con **Java 17** y **Spring Boot 3**, diseñada para administrar de forma eficiente estudiantes y sus calificaciones académicas.
+**Student Management Service** es una API REST desarrollada con **Java** y **Spring Boot**, diseñada para administrar de forma eficiente estudiantes y sus calificaciones académicas.
 
 El proyecto implementa un **CRUD completo** sobre las entidades `Student` y `Grade`, aplicando buenas prácticas de desarrollo backend como la separación por capas (Controller → Service → Repository), persistencia de datos mediante **Spring Data JPA** e **Hibernate**, y almacenamiento en una base de datos relacional **PostgreSQL**.
 
